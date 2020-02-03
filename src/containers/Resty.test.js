@@ -1,6 +1,6 @@
 import React from 'react';
 import { shallow } from 'enzyme';
-import RestyApp from './RestyApp';
+import RestyApp from './Resty';
 
 describe('RestyApp component', () => {
   it('renders RestyApp', () => {
